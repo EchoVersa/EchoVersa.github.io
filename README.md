@@ -1,6 +1,5 @@
-# Traderepublic Blog
+#  Blog
 
-This is the blog for our project in the Traderepublic hackaton 2022-07-21.
 
 ## Stack
 - Jekyll
@@ -35,7 +34,7 @@ See the preview [here](localhost:4000).
 - [x] Deploy theme
 - [ ] Enable i18n
 - [x] Enable SEO plugins
-- [ ] Create PR for CRECORD pointing `blog.traderepublic.com` to `https://traderepublic.github.io/blog/`
+- [ ] Create PR for CRECORD pointing `blog..com` to `https://.github.io/blog/`
 - [x] Create first blog post (english/german?)
 
 Fix:
